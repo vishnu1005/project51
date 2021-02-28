@@ -1,0 +1,95 @@
+
+    .header{
+
+        color:orangered;
+        border:inset;
+        text-align: center;
+        font-style: italic;
+        background-color:darkblue;
+        font-size:75px ;
+        font-weight:700;
+    }
+
+    .footer{
+
+        color:orangered;
+        border:inset;
+        background-color:darkblue;
+    }
+
+    .content{
+        display:block;
+        justify-content:center;
+        font-family: fantasy;
+        font-size:25px;
+       
+
+    }
+
+    .tigers{
+        background-color: lightsalmon;
+        color: blueviolet;
+    }
+
+    .lions{
+       background-color:cornflowerblue;
+       color:chocolate;
+    }
+
+    .leopards{
+        background-color: darkkhaki;
+        color:darkgreen;
+    }
+
+    .cheetahs{
+        background-color: darkorange;
+        color:darkseagreen;
+    }
+
+    .jaguar{
+        background-color:yellow;
+        color: firebrick;
+    }
+
+    .tiger_img{
+        border: 5px solid #555;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+
+    .lion_img{
+        border: 5px solid #555;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+
+    .jaguar_img{
+        border: 5px solid #555;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+
+    .cheetah_img{
+        border: 5px solid #555;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+
+    .leopard_img{
+        border: 5px solid #555;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+        
+        
+    
